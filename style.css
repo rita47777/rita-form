@@ -1,0 +1,47 @@
+body{
+    background-image: url(./img/Homepage.png);
+    background-size: cover;
+    height: 700px;
+}
+
+.form{
+    height: 700px;
+    width:  420px;
+    background-color: rgba(253,199, 199, 0.3);
+    font-size: 1.7em;
+    margin: 50px, 50px,50px,0;
+    padding: 100px;
+    border-radius: 8px;
+}
+input {
+     width:  350px;
+     height: 40px;
+     border: radius 8px;
+     border-width: 0;
+     
+}
+.button {
+background-color: rgb(30,255,0);
+border: none;
+font: size 18px;
+color: white;
+border-radius: 8px;
+}
+.btn2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:transparent;
+    width:350px;
+    height: 40px;
+    font-size: 18px;
+    border-color: rgb(30, 255, 66);
+    border-radius : 8px;
+}
+
+
+a{
+    text-decoration: none;
+    color: rgb(30,255,0);
+    background-image: rgb(30,255,0);
+}
